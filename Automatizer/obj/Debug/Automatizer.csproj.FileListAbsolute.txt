@@ -1,0 +1,17 @@
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\Automatizer.exe.config
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.csprojResolveAssemblyReference.cache
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\MainWindow.baml
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\MainWindow.g.cs
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\App.g.cs
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer_MarkupCompile.cache
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.g.resources
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.Properties.Resources.resources
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.csproj.GenerateResource.Cache
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer_Content.g.cs
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\Automatizer.exe
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\Automatizer.pdb
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\InputSimulator.dll
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\InputSimulator.pdb
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\bin\Debug\InputSimulator.xml
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.exe
+c:\users\gabor\documents\visual studio 2015\Projects\Automatizer\Automatizer\obj\Debug\Automatizer.pdb
